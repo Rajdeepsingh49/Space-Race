@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/Space-Race/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/Space-Race/static/js/main.5a4dcaba.chunk.js",
+    "main.js.map": "/Space-Race/static/js/main.5a4dcaba.chunk.js.map",
+    "runtime-main.js": "/Space-Race/static/js/runtime-main.afe293f1.js",
+    "runtime-main.js.map": "/Space-Race/static/js/runtime-main.afe293f1.js.map",
+    "static/js/2.e7d66bab.chunk.js": "/Space-Race/static/js/2.e7d66bab.chunk.js",
+    "static/js/2.e7d66bab.chunk.js.map": "/Space-Race/static/js/2.e7d66bab.chunk.js.map",
+    "static/js/3.71a1deb3.chunk.js": "/Space-Race/static/js/3.71a1deb3.chunk.js",
+    "static/js/3.71a1deb3.chunk.js.map": "/Space-Race/static/js/3.71a1deb3.chunk.js.map",
+    "index.html": "/Space-Race/index.html",
+    "static/css/main.6dea0f05.chunk.css.map": "/Space-Race/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.e7d66bab.chunk.js.LICENSE.txt": "/Space-Race/static/js/2.e7d66bab.chunk.js.LICENSE.txt",
+    "static/media/al.3185f7d3.png": "/Space-Race/static/media/al.3185f7d3.png",
+    "static/media/apollo11.5442cef8.png": "/Space-Race/static/media/apollo11.5442cef8.png",
+    "static/media/as.0059d4c2.png": "/Space-Race/static/media/as.0059d4c2.png",
+    "static/media/dogs1.513d2e26.png": "/Space-Race/static/media/dogs1.513d2e26.png",
+    "static/media/explorer6.9a893ce9.png": "/Space-Race/static/media/explorer6.9a893ce9.png",
+    "static/media/fcs.c6268421.png": "/Space-Race/static/media/fcs.c6268421.png",
+    "static/media/ham.00143a35.png": "/Space-Race/static/media/ham.00143a35.png",
+    "static/media/luna1.6f1c175a.png": "/Space-Race/static/media/luna1.6f1c175a.png",
+    "static/media/luna2.03d42122.png": "/Space-Race/static/media/luna2.03d42122.png",
+    "static/media/luna3.c3998ebb.png": "/Space-Race/static/media/luna3.c3998ebb.png",
+    "static/media/r1.ea5c7daf.png": "/Space-Race/static/media/r1.ea5c7daf.png",
+    "static/media/sputnik.cdaf8570.png": "/Space-Race/static/media/sputnik.cdaf8570.png",
+    "static/media/sr.3ad1677a.png": "/Space-Race/static/media/sr.3ad1677a.png",
+    "static/media/v1.0fe08604.png": "/Space-Race/static/media/v1.0fe08604.png",
+    "static/media/vt.b6b1e095.png": "/Space-Race/static/media/vt.b6b1e095.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.afe293f1.js",
+    "static/js/2.e7d66bab.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.5a4dcaba.chunk.js"
+  ]
+}
